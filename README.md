@@ -12,7 +12,7 @@
 <br>
 
 - .NET Developer
-- Currently learning Software Engineering in SoftUni
+- Software Engineering student in SoftUni, Bulgaria. Currently improving my .NET skills and learning Python
 - Probably gaming in my spare time
 
 <br>
