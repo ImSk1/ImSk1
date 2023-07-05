@@ -92,13 +92,13 @@
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/imsk1" target="_blank">
+<a href="https://www.linkedin.com/in/imsk1" target="_blank">
 <img src="https://img.shields.io/badge/David Hristov-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 <br>
 <li>
-<a href="discordapp.com/users/411579175288176672" target="_blank">
+<a href="https://discordapp.com/users/411579175288176672" target="_blank">
 <img src="https://img.shields.io/badge/imsk1-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
