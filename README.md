@@ -99,7 +99,7 @@
 <br>
 <li>
 <a href="discordapp.com/users/411579175288176672" target="_blank">
-<img src="https://img.shields.io/badge/Sk1%238210-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/imsk1-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 <br>
