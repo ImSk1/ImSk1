@@ -11,9 +11,10 @@
 </div>
 <br>
 
-- .NET Developer
-- Software Engineering student in SoftUni, Bulgaria. Currently improving my .NET skills and learning Python
-- Probably gaming in my spare time
+- 💻 Back-end .NET Developer
+- ⚒️ I’m currently working on [Insightify](https://github.com/DEVids-VT/Insightify) and [CSGO-PhoenixLoader](https://github.com/dpS1lence/CSGO-PhoenixLoader)
+- 😎 Learning Domain-Driven Design, Microservice Architecture, Python and a lot of other cool stuff
+- 🚀 Looking to collaborate on .NET Web Apps and Unity
 
 <br>
 
