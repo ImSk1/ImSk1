@@ -12,7 +12,7 @@
 <br>
 
 - 💻 Back-end .NET Developer
-- ⚒️ I’m currently working on [Insightify](https://github.com/DEVids-VT/Insightify) and [CSGO-PhoenixLoader](https://github.com/dpS1lence/CSGO-PhoenixLoader)
+- ⚒️ I’m currently working on [Insightify](https://github.com/DEVids-VT/Insightify).
 - 😎 Learning Domain-Driven Design, Microservice Architecture, Python and a lot of other cool stuff
 - 🚀 Looking to collaborate on .NET Web Apps and Unity
 
