@@ -155,7 +155,7 @@
 [Github](https://github.com/dpS1lence/Notiflex)
 
 ## 🎓 Diplomas 🎓
-- [C# Web Developer](https://softuni.bg/certificates/details/109564/a956832a)
+- [C# Web Developer](https://softuni.bg/Certificates/Details/185047/5fff4e10)
 
 ## 🏫 Certificates 🏫
 - [Programming Basics C#](https://softuni.bg/Certificates/Details/109564/a956832a)
