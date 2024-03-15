@@ -14,6 +14,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+## Table of Contents
+1. [Skills](#user-content--skills)
+2. [Github Stats](#user-content--github-stats-)
+3. [Projects and Awards](#user-content--projects-and-awards-)
+4. [Diplomas](#user-content--diplomas-)
+5. [Certificates](#user-content--certificates-)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
@@ -148,7 +158,7 @@
 - [C# Web Developer](https://softuni.bg/certificates/details/109564/a956832a)
 
 ## 🏫 Certificates 🏫
-- [Programming Basics C#](https://softuni.bg/certificates/details/112127/85953e4a)
+- [Programming Basics C#](https://softuni.bg/Certificates/Details/109564/a956832a)
 
 - [Programming Fundamentals C#](https://softuni.bg/certificates/details/119973/fdef7475)
 
