@@ -108,6 +108,7 @@
 
 **Awards:** 
 - 1st place in the national IT tournament 'John Atanasoff'
+- 1st award in High School Student Institute of Mathematics and Informatics (HSSIMI)
 
 **Description:** 
 - Currently developing this project
