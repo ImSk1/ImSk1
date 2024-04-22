@@ -7,7 +7,7 @@
 
 - 💻 Back-end .NET Developer
 - ⚒️ I’m currently working on [Insightify](https://github.com/DEVids-VT/Insightify).
-- 😎 Learning Domain-Driven Design, Microservice Architecture, Python and a lot of other cool stuff
+- 😎 Learning Domain-Driven Design, Cloud Architecture and a lot of other cool stuff
 - 🚀 Looking to collaborate on .NET Web Apps and Unity
 - ✉️ How to reach me: david_hristov07@outlook.com
 
