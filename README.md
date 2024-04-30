@@ -9,6 +9,7 @@
 - ⚒️ I’m currently working on [Insightify](https://github.com/DEVids-VT/Insightify).
 - 😎 Learning Domain-Driven Design, Cloud Architecture and a lot of other cool stuff
 - 🚀 Looking to collaborate on .NET Web Apps and Unity
+- 🎮 In my free time you can find me playing guitar or wandering in a video games lobby ;) 🎸
 - ✉️ How to reach me: david_hristov07@outlook.com
 
 
