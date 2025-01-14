@@ -42,8 +42,8 @@
 </a>
 </li>
 <li>
-<a href="https://www.instagram.com/d.hristov713/" target="_blank">
-<img src="https://img.shields.io/badge/d.hristov713-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://www.instagram.com/david_hristovv/" target="_blank">
+<img src="https://img.shields.io/badge/david_hristovv-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 </ul>
@@ -61,24 +61,12 @@
 - **Web Development**:
 
    ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-   ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
    ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-- **Cloud Hosting**:
+- **Cloud**:
 
     ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
 </p>
 
 -----
@@ -101,18 +89,43 @@
 ## 🧑‍💻 Projects and Awards 🧑‍💻
 ## The majority of these projects were developed collaboratively, with a consistent team of two, fostering a synergistic environment that encouraged creativity and efficiency.
 
+## <img src="https://www.mealmasterbot.com/assets/master-33-CVg4m8Z0.png" height=30 width=30> MealMaster
+**Creation Date:** 05/2024
+
+**End Date:** Present
+
+**Description:** 
+- The Cooking Chat App is your ultimate kitchen companion, designed to help users streamline their cooking experience. My first production project developed in a small team. With [David Petkov](https://github.com/dpS1lence) as our Technical Team Lead.
+  
+**Links:**
+[Check it out!](https://www.mealmasterbot.com/)
+
+## 🥉SkillNet
+
+**Creation Date:** 09/2024
+
+**End Date:** Present
+
+**Awards:** 
+- 3st place in the national IT tournament 'John Atanasoff'
+
+**Description:** 
+- Currently developing this project with [Stefan Petrov](https://github.com/stefan-petrov1).
+  
+**Links:**
+[Github](https://github.com/David-and-Stefan)
+
 ## 🏆🥇Insightify
 
 **Creation Date:** 06/2023
-
-**End Date:** Present
+**End Date:** 04/2024
 
 **Awards:** 
 - 1st place in the national IT tournament 'John Atanasoff'
 - 1st award in High School Student Institute of Mathematics and Informatics (HSSIMI)
 
 **Description:** 
-- Currently developing this project
+- Project devoped in a team with [David Petkov](https://github.com/dpS1lence) that won a few awards. Got disqualified from SoftUniada for having won awards prior to the competition 😂.
   
 **Links:**
 [Github](https://github.com/DEVids-VT/Insightify)
