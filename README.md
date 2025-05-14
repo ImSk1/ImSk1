@@ -12,6 +12,15 @@
 - 🎮 In my free time you can find me playing guitar or wandering in a video games lobby ;) 🎸
 - ✉️ How to reach me: david_hristov07@outlook.com
 
+## 🏅 Awards
+
+- **Laureate (Grade 6.00) and 4th place**, National IT Olympiad (NOIT) — *2025*
+- **1st place**, NETIT "John Atanasoff" — *2023*
+- **1st award**, High School Student Institute of Mathematics and Informatics (HSSIMI), Borovets — *2024*
+- **3rd place**, NETIT "John Atanasoff" — *2024*
+- **2nd place**, SoftUni Software Fest — *2023*
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
