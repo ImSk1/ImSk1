@@ -100,7 +100,7 @@
 **Links:**
 [Check it out!](https://www.mealmasterbot.com/)
 
-## 🥉SkillNet
+## 🥉 SkillNet
 
 **Creation Date:** 09/2024
 
@@ -108,6 +108,7 @@
 
 **Awards:** 
 - 3st place in the national IT tournament 'John Atanasoff'
+- 4th place National IT Olympiad Bulgaria
 
 **Description:** 
 - Currently developing this project with [Stefan Petrov](https://github.com/stefan-petrov1).
